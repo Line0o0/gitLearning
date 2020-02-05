@@ -1,0 +1,2 @@
+This is a License file.
+This file is to test the cache area in git. 
