@@ -2,6 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
-Create a branch is quick.
-I fixed a bug in dev branch.
-Fix 2 bugs.
+Create a branch is quick And simple.
